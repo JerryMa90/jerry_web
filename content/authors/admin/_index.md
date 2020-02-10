@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/in/qida-jerry-ma-4ab30b65/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: resume
+- icon: cv
   icon_pack: ai
   link: files/resume_jerryma.pdf
 
