@@ -33,10 +33,10 @@ education:
     year: 2017 - Present
   - course: MS in Applied Statistics and Data Analytics
     institution: Southern Methodist University
-    year: 2014
+    year: 2012 - 2014
   - course: BS in Information and Computing Science
     institution: Zhejiang University
-    year: 2012
+    year: 2008 - 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,21 +45,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '#contact'  # For a direct email link, use "mqdmjy123@gmail.com".
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.facebook.com/jerry.ma.969
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JerryMa90
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/qida-jerry-ma-4ab30b65/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: resume
+  icon_pack: ai
+  link: files/resume_jerryma.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
