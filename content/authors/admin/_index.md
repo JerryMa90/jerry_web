@@ -70,3 +70,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+My research interests include computational statistics, algebraic geometric statistics and high dimensional data analysis.
