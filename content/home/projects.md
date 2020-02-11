@@ -25,9 +25,9 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Classifying State Financial Success by Demographics and Other Co-Variates"
+    tag = ""
   
   # [[content.filter_button]]
   #   name = "Other"
