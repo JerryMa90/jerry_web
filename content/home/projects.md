@@ -22,7 +22,9 @@ title = "Projects"
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    ---
     Classifying State Financial Success by Demographics and Other Co-Variates
+    ---
   
   [[content.filter_button]]
     name = "Deep Learning"
