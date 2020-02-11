@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Recent Invited Talks"
 subtitle = ""
 
 [content]
@@ -66,4 +66,15 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ [[item]]
+  organization = "The 2nd Annual Meeting of SIAM Texas-Louisiana Section"
+  organization_url = "http://faculty.smu.edu/sxu/SIAMTXLA19/index.html"
+  title = "Parameterizing Varieties with Deep Learning"
+  url = ""
+  date_start = "2019-11-02"
+  date_end = ""
+  description = ""
+  location = "Southern Methodist University, Dallas, Texas, USA"
+
 +++
