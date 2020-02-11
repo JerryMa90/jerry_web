@@ -30,6 +30,11 @@ date_format = "Jan 2006"
   * Assist undergraduates in statistical tutoring labs.
   * Grade assignments and quizzes for computational statistics course.
   * Built solution menus for graduate mathematical statistics courses.
+  
+  Projects:
+  * Developed a heteroskedastic linear dimension reduction (HLDR) method to better classify state financial success with R. Evaluated different classification methods including QDA, KNN and Random Forest.
+  * Proposed a “Sampling + Autoencoder” algorithm to numerically parameterize real varieties with R. Implemented Hamiltonian Monte Carlo methods, Homotopy endgames, Autoencoder Neural Network and Natural Cubic Splines with R (Stan and Keras/Tensorflow).
+  * Deduced theoretical derivations for different types of confidence intervals for a poisson rate parameter with a misclassification nuisance parameter including Wald, score and integrated-likelihood methods. Conducted Monte Carlo simulations and real data example study with R.
   """
 
 [[experience]]
