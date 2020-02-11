@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
-title = "Project"
+title = "Projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,6 +22,7 @@ title = "Project"
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    Classifying State Financial Success by Demographics and Other Co-Variates
   
   [[content.filter_button]]
     name = "Deep Learning"
