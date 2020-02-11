@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Classifying State Financial Success by Demographics and Other Co-Variates"
-    tag = ""
+    tag = "*"
   
   # [[content.filter_button]]
   #   name = "Other"
