@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = "Under peer review"
-  
-  [[item]]
+ 
+ [[item]]
   organization = "Q. Ma, J. Patrick, D. Young and L. Njoh"
   title = "A Double-Sampling Based Integrated-Likelihood-Ratio Confidence Interval for a Poisson Rate with Over- and Under-Counted Data.”"
   url = ""
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "In preparation"
   
-  [[item]]
+ [[item]]
   organization = "Q. Ma, and D. Kahle"
   title = "Parameterizing Varieties with Deep Learning.”"
   url = ""
