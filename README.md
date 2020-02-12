@@ -1,3 +1,3 @@
 # Check out my personal website
 
-- link:jerryma90.com
+<a href="http://jerryma90.com/"></a>
