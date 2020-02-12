@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "In preparation"
   
-  [item]]
+  [[item]]
   organization = "Q. Ma, and D. Kahle"
   title = "Parameterizing Varieties with Deep Learning.”"
   url = ""
