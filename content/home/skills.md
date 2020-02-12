@@ -17,7 +17,6 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  link = https://www.r-project.org
   name = "R"
   # description = "90%"
   
@@ -31,7 +30,6 @@ subtitle = ""
   icon = "microphone-alt"
   icon_pack = "fas"
   name = "Singing"
-  link = http://changba.com/u/47075061
   # description = "10%"
 
 +++
