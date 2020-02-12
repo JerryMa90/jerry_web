@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -64,21 +64,21 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ [[item]]
+ title: An example title
+  summary: Here we describe how to add a page to your site.
+  date: "2018-06-28T00:00:00Z"
+
+  reading_time: false  # Show estimated reading time?
+  share: false  # Show social sharing links?
+  profile: false  # Show author profile?
+  comments: false  # Show comments?
+
+  # Optional header image (relative to `static/img/` folder).
+  header:
+    caption: ""
+    image: ""
   
 +++
-
----
-title: Integrated-Likelihood-Ratio Confidence Intervals for a Poisson Rate Parameter and Misclassification Parameter Using Double Sampling. (Under peer review)
-author: Q. Ma, J. Patrick, L. Njoh, and D. Young.
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
----
 
