@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  url = "www.r-project.org"
+  link = "www.r-project.org"
   name = "R"
   # description = "90%"
   
