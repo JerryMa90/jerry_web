@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mqdmjy123@gmail.com".
+  link: "mqdmjy123@gmail.com"  # For a direct email link, use "mqdmjy123@gmail.com".
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/jerry.ma.969
