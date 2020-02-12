@@ -55,11 +55,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/qida-jerry-ma-4ab30b65/
+- icon: microphone-alt
+  icon_pack: fas
+  link: http://changba.com/u/47075061
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/resume_jerryma.pdf
+#- icon: cv
+ # icon_pack: ai
+ # link: files/resume_jerryma.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include computational statistics, algebraic geometric statistics and high dimensional data analysis.
+My research interests include computational statistics, algebraic geometric statistics and high dimensional data analysis. I am proficient in R and SAS. At spare time, I like singing, playing billiards and playing bridge.
