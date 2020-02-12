@@ -26,6 +26,5 @@ date_format = "Jan 2006"
   date_start = "2019-11-02"
   date_end = ""
   description = ""
-  location = "Southern Methodist University, Dallas, Texas, USA"
 
 +++
