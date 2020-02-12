@@ -1,3 +1,1 @@
-# Check out my personal website
-
-<a href="http://jerryma90.com/"></a>
+# <a href="http://jerryma90.com/">Check out my personal website!</a>
