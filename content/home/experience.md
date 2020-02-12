@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  TA responsibilities:
   
   * Assist undergraduates in statistical tutoring labs.
   * Grade assignments and quizzes for computational statistics course.
@@ -35,6 +35,15 @@ date_format = "Jan 2006"
   * Developed a heteroskedastic linear dimension reduction (HLDR) method to better classify state financial success with R. Evaluated different classification methods including QDA, KNN and Random Forest.
   * Proposed a “Sampling + Autoencoder” algorithm to numerically parameterize real varieties with R. Implemented Hamiltonian Monte Carlo methods, Homotopy endgames, Autoencoder Neural Network and Natural Cubic Splines with R (Stan and Keras/Tensorflow).
   * Deduced theoretical derivations for different types of confidence intervals for a poisson rate parameter with a misclassification nuisance parameter including Wald, score and integrated-likelihood methods. Conducted Monte Carlo simulations and real data example study with R.
+  
+  Publications:
+  * Q. Ma, J. Patrick, L. Njoh, and D. Young.“Integrated-Likelihood-Ratio Confidence Intervals for a Poisson Rate Parameter and Misclassification Parameter Using Double Sampling.” (Under peer review)
+  * Q. Ma, J. Patrick, P. Young, D. Young, and L. Njoh. “A Double-Sampling Based Integrated-Likelihood-Ratio Confidence Interval for a Poisson Rate with Over- and Under-Counted Data.” (In preparation)
+  * Q.Ma and D. Kahle. “Parameterizing Varieties with Deep Learning.” (In preparation)
+  
+  Talks:
+  * Q. Ma and D. Kahle. “Parameterizing Varieties with Deep Learning.” The 2nd Annual Meeting of SIAM
+Texas-Louisiana Section, Southern Methodist University, Dallas, Texas, USA, November 1–3, 2019.
   """
 
 [[experience]]
