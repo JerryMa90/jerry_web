@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+# date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   organization = "Q. Ma, J. Patrick, L. Njoh and D. Young"
   title = "Integrated-Likelihood-Ratio Confidence Intervals for a Poisson Rate Parameter and Misclassification Parameter Using Double Sampling.”"
   url = ""
-  date_start = ""
+  date_start = "Under peer review"
   date_end = ""
-  description = "Under peer review"
+  description = ""
 
 +++
