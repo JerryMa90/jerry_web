@@ -27,24 +27,24 @@ date_format = "Jan 2006"
   description = """
   Projects:
 
-    1. Benchmarking of differential privacy (DP) algorithms:
-      - Created an interface-based DP benchmarking framework in collaboration with Harvard University to be ingested in OpenDP Core library.
-      - Built a set of of DP visualization capabilities for the framework containing rich Python based graphs and animations to showcase and compare certain algorithms' performance.
-      - Made a notebook of sample code that researchers can use as a template for their own DP algorithms.
+   1. Benchmarking of differential privacy (DP) algorithms:
+     - Created an interface-based DP benchmarking framework in collaboration with Harvard University to be ingested in OpenDP Core library.
+     - Built a set of of DP visualization capabilities for the framework containing rich Python based graphs and animations to showcase and compare certain algorithms` performance.
+     - Made a notebook of sample code that researchers can use as a template for their own DP algorithms.
 
 
-    2. Hackathon Projects:
-      - Python Programming Puzzles:
-        Brainstormed more than 100 puzzles together with 35 'hackers' and tried to solve each other's.
-        Followed up on a trained an Abstract Syntax Tree (AST) deep learning model to teach a PC to solve puzzles automatically.
-      - Metabolomics AI driven Research Service (MARS):
-        Collaborated with Microsoft Research experts and Professor Thomas O’Connell and tapped into four public data sources and built a brand new AI driven NLP system to dramatically improve the correlations of 30+ million research papers focusing on around 100K metabolites and their usefulness in treating both COVID-19 and different types of cancer.
+   2. Hackathon Projects:
+     - Python Programming Puzzles:
+       Brainstormed more than 100 puzzles together with 35 `hackers` and tried to solve each other's.
+       Followed up on a trained an Abstract Syntax Tree (AST) deep learning model to teach a PC to solve puzzles automatically.
+     - Metabolomics AI driven Research Service (MARS):
+       Collaborated with Microsoft Research experts and Professor Thomas O`Connell and tapped into four public data sources and built a brand new AI driven NLP system to dramatically improve the correlations of 30+ million research papers focusing on around 100K metabolites and their usefulness in treating both COVID-19 and different types of cancer.
 
 
   Paper accepted:
 
-    Title: Distributed Differentially Private Mutual Information Ranking and Its Applications
-    Coauthors: Ankit Srivastava, Samira Pouyanfar, Joshua Allen, Ken Johnston
+  Title: Distributed Differentially Private Mutual Information Ranking and Its Applications
+  Coauthors: Ankit Srivastava, Samira Pouyanfar, Joshua Allen, Ken Johnston
   """
 
 [[experience]]
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   * Deduced theoretical derivations for different types of confidence intervals for a poisson rate parameter with a misclassification nuisance parameter including Wald, score and integrated-likelihood methods. Conducted Monte Carlo simulations and real data example study with R.
   
   Publications:
-  * Q. Ma, J. Patrick, L. Njoh, and D. Young.“Integrated-Likelihood-Ratio Confidence Intervals for a Poisson Rate Parameter and Misclassification Parameter Using Double Sampling.” (Under peer review)
+  * Q. Ma, J. Patrick, L. Njoh, and D. Young. “Integrated-Likelihood-Ratio Confidence Intervals for a Poisson Rate Parameter and Misclassification Parameter Using Double Sampling.” (Under peer review)
   * Q. Ma, J. Patrick, P. Young, D. Young, and L. Njoh. “A Double-Sampling Based Integrated-Likelihood-Ratio Confidence Interval for a Poisson Rate with Over- and Under-Counted Data.” (In preparation)
   * Q.Ma and D. Kahle. “Parameterizing Varieties with Deep Learning.” (In preparation)
   
