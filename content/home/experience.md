@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/"
   location = "Redmond, Washington"
   date_start = "2020-06-08"
-  date_end = "2020_08_21"
+  date_end = "2020-08-21"
   description = """
   Projects:
 
@@ -79,7 +79,7 @@ Texas-Louisiana Section, Southern Methodist University, Dallas, Texas, USA, Nove
 [[experience]]
   title = "Data Analyst"
   company = "CreditEase"
-  company_url = ""
+  company_url = "http://english.creditease.cn/"
   location = "Beijing, China"
   date_start = "2014-11-01"
   date_end = "2017-01-01"
