@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
   Paper publication:
   
-    * A. Srivastava, S. Pouyanfar, J. Allen, K. Johnston, Q. Ma. [Distributed Differentially Private Mutual Information Ranking and Its Applications.](https://ieeexplore.ieee.org/document/9191406) IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI), September, 2020
+   * A. Srivastava, S. Pouyanfar, J. Allen, K. Johnston, Q. Ma. [Distributed Differentially Private Mutual Information Ranking and Its Applications.](https://ieeexplore.ieee.org/document/9191406) IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI), September, 2020
   """
 
 [[experience]]
