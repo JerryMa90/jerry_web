@@ -38,11 +38,6 @@ date_format = "Jan 2006"
         Followed up on a trained an Abstract Syntax Tree (AST) deep learning model to teach a PC to solve puzzles automatically.
       * Metabolomics AI driven Research Service (MARS):       
         Collaborated with Microsoft Research experts and Professor Thomas O'Connell and tapped into four public data sources and built a brand new AI driven NLP system to dramatically improve the correlations of 30+ million research papers focusing on around 100K metabolites and their usefulness in treating both COVID-19 and different types of cancer.
-
-
-  Talks:
-
-  * A. Srivastava, S. Pouyanfar, J. Allen, K. Johnston, and Q. Ma. “Distributed Differentially Private Mutual Information Ranking and Its Applications.” IEEE 21st International Conference on Information Reuse and Integration for Data Science, Taking Place Virtually, August 11-13, 2020.  (Paper accepted)
   """
 
 [[experience]]
