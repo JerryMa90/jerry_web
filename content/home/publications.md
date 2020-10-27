@@ -17,13 +17,12 @@ subtitle = ""
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
- 
+  
  [[item]]
-  organization = "Q. Ma, J. Patrick, L. Njoh and D. Young"
-  title = "Integrated-Likelihood-Ratio Confidence Intervals for a Poisson Rate Parameter and Misclassification Parameter Using Double Sampling.”"
+  organization = "IEEE 21st International Conference on Information Reuse and Integration for Data Science"
+  title = "Distributed Differentially Private Mutual Information Ranking and Its Applications."
+  authors = "A. Srivastava, S. Pouyanfar, J. Allen, K. Johnston, and Q. Ma"
   url = ""
-  date_start = "Under-peer-review"
-  date_end = ""
-  description = ""
-
+  date = "September 10, 2020"
+  description = "" 
 +++
