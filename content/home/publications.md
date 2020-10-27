@@ -23,6 +23,6 @@ subtitle = ""
   title = "Distributed Differentially Private Mutual Information Ranking and Its Applications."
   authors = "A. Srivastava, S. Pouyanfar, J. Allen, K. Johnston, and Q. Ma"
   url = ""
-  date = "September 10, 2020"
+  date = "Sep 2020"
   description = "" 
 +++
